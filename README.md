@@ -21,7 +21,8 @@ This project builds upon and extends the GPIR (Generalized Planning as Inference
 
 Our work stems from the future outlook discussed in the original GPIR paper:
 
-> “A major limitation of this work is the failure to adequately model uncertainty (e.g., prediction uncertainty)... The framework of treating planning as probabilistic reasoning holds great potential for systematically handling uncertainty.”
+> “The main limitation of this work is that the uncertainties are not well modeled (e.g., prediction uncertainty). However, we believe that planning as probabilistic inference is
+a promising framework that can systematically deal with uncertainties, and this remains for future work.”
 
 To address the original framework's shortcomings in uncertainty modeling, we further explore the potential of “planning as probabilistic reasoning” to achieve systematic uncertainty handling.
 
