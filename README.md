@@ -9,10 +9,32 @@ This project builds upon and extends the GPIR (Generalized Planning as Inference
 
 ## 🎥 Demonstration
 
+### Video Demonstrations
+
+<p align="center">
+  <strong>Combined Demonstration (democom.mp4)</strong>
+  <br>
+  <video src="democom.mp4" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" controls>
+  </video>
+  <br>
+  <em>Figure 1: Comprehensive demonstration showing trajectory planning performance in complex dynamic scenarios.</em>
+</p>
+
+<p align="center">
+  <strong>Obstacle Avoidance Demonstration (demoobs.mp4)</strong>
+  <br>
+  <video src="demoobs.mp4" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" controls>
+  </video>
+  <br>
+  <em>Figure 2: Detailed demonstration of obstacle avoidance behavior with uncertainty factor integration.</em>
+</p>
+
+### GIF Demonstration
+
 <p align="center">
   <img src="show.gif" alt="Planning Demonstration with Uncertainty Factors" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);">
   <br>
-  <em>Figure 1: Demonstration of superior performance in complex dynamic scenarios (lane changes and obstacle avoidance) after integrating uncertainty factors.</em>
+  <em>Figure 3: Animated GIF demonstration of superior performance in complex dynamic scenarios (lane changes and obstacle avoidance) after integrating uncertainty factors.</em>
 </p>
 
 ---
