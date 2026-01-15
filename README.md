@@ -11,20 +11,20 @@ This project builds upon and extends the GPIR (Generalized Planning as Inference
 
 ### Video Demonstrations
 
+#### Combined Demonstration
 <p align="center">
-  <strong>Combined Demonstration (democom.mp4)</strong>
+  <strong>democom.mp4</strong>
   <br>
-  <video src="democom.mp4" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" controls>
-  </video>
+  📥 <a href="https://github.com/taiyangkaorou-boop/RobustTrajectoryPlanningforAutonomousDriving/raw/main/democom.mp4" target="_blank">Download democom.mp4 (14MB)</a>
   <br>
   <em>Figure 1: Comprehensive demonstration showing trajectory planning performance in complex dynamic scenarios.</em>
 </p>
 
+#### Obstacle Avoidance Demonstration
 <p align="center">
-  <strong>Obstacle Avoidance Demonstration (demoobs.mp4)</strong>
+  <strong>demoobs.mp4</strong>
   <br>
-  <video src="demoobs.mp4" width="800" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);" controls>
-  </video>
+  📥 <a href="https://github.com/taiyangkaorou-boop/RobustTrajectoryPlanningforAutonomousDriving/raw/main/demoobs.mp4" target="_blank">Download demoobs.mp4 (11MB)</a>
   <br>
   <em>Figure 2: Detailed demonstration of obstacle avoidance behavior with uncertainty factor integration.</em>
 </p>
